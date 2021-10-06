@@ -3,8 +3,8 @@
 
 
 ## In this exercise,
-# I use the Visual Studio.NET to create Windows Forms and Class Library (.dll) project
-# Run the project and test the WinForms actions
+* I use the Visual Studio.NET to create Windows Forms and Class Library (.dll) project
+* Run the project and test the WinForms actions
 
 ## Main Function
 * Add a comic
